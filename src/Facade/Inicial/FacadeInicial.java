@@ -1,4 +1,4 @@
-package facade.inicial;
+package Facade.Inicial;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
