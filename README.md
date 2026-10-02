@@ -39,5 +39,5 @@ src/
     └── refactorizado/
         └── FacadeRefactorizado.java   # Versión con Facade: interfaz unificada mediante AgroLabFacade.
 uml/
-├── proxy.puml                         # Diagrama de clases PlantUML para el patrón Proxy.
-└── facade.puml                        # Diagrama de clases PlantUML para el patrón Facade.
+├── proxy.png                         # Diagrama de clases PlantUML para el patrón Proxy.
+└── facade.png                        # Diagrama de clases PlantUML para el patrón Facade.
